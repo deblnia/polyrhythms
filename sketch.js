@@ -1,5 +1,6 @@
 function setup() {
-  createCanvas(400, 400);
+  angleMode(DEGREES) 
+  createCanvas(300, 300);
 }
 
 function draw() {
