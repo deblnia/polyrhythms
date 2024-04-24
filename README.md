@@ -1,5 +1,3 @@
-# polyrhythm
+# rc-creative-coding 
 
-Built off of [this](https://github.com/jpreis/p5js-starter) p5.js starter, and (heavily) inspired by this sketch. 
-
-Built for creative coding week 3 at the Recurse Center! 
+This is a monorepo for all my creative coding projects done through RC. Paraphrasing the inimitable [Hannah](https://github.com/hannahilea), these are sketches! They may not be finished, or perfect, or honestly even working. 
